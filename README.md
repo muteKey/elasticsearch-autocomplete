@@ -31,12 +31,12 @@ curl -X GET "localhost:9200/_search?pretty&size=50" -H 'Content-Type: applicatio
 ```
 
 ## Example 1: 'cazual'
-
-
+![Example 1](https://github.com/muteKey/elasticsearch-autocomplete/blob/master/screenshots/example-results-1.png)
 ## Example 2: 'dovtor'
-
+![Example 2](https://github.com/muteKey/elasticsearch-autocomplete/blob/master/screenshots/example-2.png)
 ## Example 3: 'train'
-
+![Example 3](https://github.com/muteKey/elasticsearch-autocomplete/blob/master/screenshots/example-3.png)
 ## Example 4: 'preccend'
-
+![Example 4](https://github.com/muteKey/elasticsearch-autocomplete/blob/master/screenshots/example-4.png)
 ## Example 5: 'preccendr'
+![Example 5](https://github.com/muteKey/elasticsearch-autocomplete/blob/master/screenshots/example-5.png)
