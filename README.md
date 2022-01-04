@@ -29,3 +29,14 @@ curl -X GET "localhost:9200/_search?pretty&size=50" -H 'Content-Type: applicatio
 }
 '
 ```
+
+## Example 1: 'cazual'
+
+
+## Example 2: 'dovtor'
+
+## Example 3: 'train'
+
+## Example 4: 'preccend'
+
+## Example 5: 'preccendr'
